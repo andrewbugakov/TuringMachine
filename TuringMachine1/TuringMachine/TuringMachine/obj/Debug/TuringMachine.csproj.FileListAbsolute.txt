@@ -1,0 +1,21 @@
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+c:\users\андрей\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+C:\Users\БОСС ЗДЕСЬ\Documents\Visual Studio 2013\Projects\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.Cache
+C:\Users\БОСС ЗДЕСЬ\Source\Repos\NewRepo\TuringMachine1\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\БОСС ЗДЕСЬ\Source\Repos\NewRepo\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\БОСС ЗДЕСЬ\Source\Repos\NewRepo\TuringMachine1\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
